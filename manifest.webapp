@@ -1,0 +1,16 @@
+{
+    "name": "meow",
+    "description": "meoww",
+    "launch_path": "/index.html",
+    "icons": {
+      "48": "/icon48.png",
+      "96": "/icon96.png"
+    },
+    "developer": {
+      "name": "Your Name",
+      "url": "https://yourwebsite.com"
+    },
+    "default_locale": "en",
+    "type": "web"
+  }
+  
